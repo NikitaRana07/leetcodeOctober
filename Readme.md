@@ -2,4 +2,4 @@
 
 |Date|Name|Discription|Solution Brief|
 |----|----|-----------|--------------|
-|1 October|Recent Counter|Implement a class|Use Queue only store the pings for which t-ping<=3000 in the queue|
+|1 Oct|Recent Counter|Implement a class|Use Queue only store the pings for which t-ping<=3000 in the queue|
