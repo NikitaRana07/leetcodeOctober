@@ -6,3 +6,4 @@
 |2 Oct|Combination Sum|Combination of numbers equal to a sum (repetition allowed)|Backtracking|
 |3 Oct|K-diff pairs in an array|Return the number of unique k-diff pairs in the array (repetition allowed)|Sorting + two pointers from begining|
 |4 Oct|Remove Covered Intervals|Return the total number of intervals left|Custom Sort + count intervals|
+|6 Oct|Insert in BST|Recursio, `root = new TreeNode(val);`|
