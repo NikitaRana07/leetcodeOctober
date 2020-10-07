@@ -8,3 +8,4 @@
 |4 Oct|Remove Covered Intervals|Return the total number of intervals left|Custom Sort + count intervals|
 |5 Oct|Complement of Base 10 Integer|1's Complement of a integer|Create xor mask with 1 + xor with the number|
 |6 Oct|Insert in BST|Insert given element in binary search tree|Recursion, `root = new TreeNode(val);`|
+|7 Oct|Rotate List|Rotate a list `k` times|Linear time, find tail and join to head and then make the c-k node the head and remove cycle here|  
