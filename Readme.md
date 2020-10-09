@@ -10,3 +10,4 @@
 |6 Oct|Insert in BST|Insert given element in binary search tree|Recursion, `root = new TreeNode(val);`|
 |7 Oct|Rotate List|Rotate a list `k` times|Linear time, find tail and join to head and then make the c-k node the head and remove cycle here|
 |8 Oct|Binary Search|Binary Search|Binary Search|
+|9 Oct|Serialize and Deserialize BST|Use `istringstream ss(data)` `string cur; ss>>cur;`|
