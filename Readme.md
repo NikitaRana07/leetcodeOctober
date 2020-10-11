@@ -11,3 +11,4 @@
 |7 Oct|Rotate List|Rotate a list `k` times|Linear time, find tail and join to head and then make the c-k node the head and remove cycle here|
 |8 Oct|Binary Search|Binary Search|Binary Search|
 |9 Oct|Serialize and Deserialize BST|String to tree & tree to string|Use `istringstream ss(data);` `string cur; ss>>cur;`|
+|10 Oct|Minimum Number of Arrows to Burst Balloons|Find minimum arrows to burst ballon along x axis|Sort on increasing `xend` and then `xstart`+ greedy|
